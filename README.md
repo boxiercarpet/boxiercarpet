@@ -35,8 +35,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boxiercarpet&theme=nord&hide_border=true&include_all_commits=true&count_private=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxiercarpet&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=boxiercarpet&theme=nord&hide_border=true&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxiercarpet&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 
